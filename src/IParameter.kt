@@ -1,0 +1,4 @@
+interface IParameter
+{
+    fun doIt()
+}
